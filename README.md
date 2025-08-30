@@ -2,7 +2,8 @@
 **Cloud/DevOps Engineer/Platform Architect**  
 I design and deliver resilient, automated systems across AWS & Azure with Terraform, Kubernetes, Docker, and GitHub Actions—reducing manual ops, hardening security, and accelerating delivery cycles.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-david-blue?logo=linkedin)](https://linkedin.com/in/dteimuno)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-david-blue?logo=linkedin)](https://www.linkedin.com/in/dhayv/)
+[!Blog](https://dev.to/dhayv)
 ![Profile Views](https://komarev.com/ghpvc/?username=dhayv)
 
 ---
