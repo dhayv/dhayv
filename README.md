@@ -8,6 +8,8 @@ I design and deliver resilient, automated systems across AWS & Azure with Terraf
 
 ---
 
+
+
 ## 🌐 Azure Projects  
 ![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white) 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) 
@@ -18,6 +20,27 @@ Containerized FastAPI → ACR → Azure App Service.
 - Automated deployments with GitHub Actions.  
 - Secured registry access with Service Principals & GitHub Secrets.  
 
+### [Azure RAG AI Application – GitOps Platform Deployment](https://github.com/dhayv/azure-rag-app)  
+**Azure AKS | GitOps | Argo CD | FastAPI | OpenAI | AI Search | Terraform | Helm | Platform Architecture**  
+Part of a multi-repo Azure AI Platform integrating **FastAPI**, **Azure OpenAI**, and **Azure AI Search** within a **GitOps-controlled AKS environment**.  
+- Built modular **RAG (Retrieval-Augmented Generation)** workload with caching, retries, and guardrails.  
+- Managed infrastructure and deployment with **Terraform + Argo CD App-of-Apps** pattern.  
+- Configured **Helm chart versioning** and environment overlays (dev/staging/prod).  
+- Implemented **AKS cluster governance** with declarative sync rules, secrets management, and namespace isolation.  
+
+---
+## 🌩 Multi-Cloud & Resilience Projects
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white)
+![CloudFront](https://img.shields.io/badge/CloudFront-8C4FFF?logo=amazonaws&logoColor=white)
+
+### [Hybrid Chatbot Platform – Multi-Cloud AI Architecture](https://github.com/dhayv/hybrid-chatbot-platform)  
+**AWS EKS | Azure AKS | Kubernetes | Terraform **  
+Co-engineered with [Dennis Teimuno](https://github.com/dteimuno) — a two-engineer, cross-cloud deployment integrating **AWS EKS** and **Azure AKS** under a shared Terraform and Docker pipeline.  
+- Implemented **CloudFront multi-origin failover** for cross-cloud high availability (EKS → AKS).  
+- Deployed containerized chatbot application across both clusters.  
+- Built reproducible **IaC modules** with VPC, IAM/RBAC, and declarative service manifests.  
+- Demonstrated **DevSecOps** design: Terraform for infra, `kubectl` for delivery, CloudFront for edg
 ---
 
 ## ☁️ AWS Projects – Kubernetes & Scaling  
