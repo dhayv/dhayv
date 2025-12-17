@@ -1,6 +1,14 @@
-# Hi, I’m David 👋
-**Cloud/DevOps Engineer/Platform Architect**  
-I design and deliver resilient, automated systems across AWS & Azure with Terraform, Kubernetes, Docker, and GitHub Actions—reducing manual ops, hardening security, and accelerating delivery cycles.
+# David Hyppolite | DevOps Engineer
+
+I make deployments faster, infrastructure cheaper, and systems reliable.
+
+**What that looks like:**
+- Deployments compressed from 30 min → 5 min
+- Cloud costs cut 40% through architecture optimization  
+- Release reliability improved 70% with automated pipelines
+
+**Stack:** AWS · Azure · Terraform · Kubernetes · ArgoCD · GitHub Actions · Docker
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-dhayv-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhayv/)  
 [![Blog](https://img.shields.io/badge/Blog-dev.to/dhayv-black?logo=dev.to)](https://dev.to/dhayv)  
